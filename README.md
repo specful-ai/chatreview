@@ -27,7 +27,7 @@ This Chrome extension introduces a Code Review mode within ChatGPT's code blocks
 
 1. Navigate to [ChatGPT](https://chat.openai.com/).
 2. Ask ChatGPT to write some code for you.
-3. Click the extension icon to enable the Code Review mode.
+3. Click the extension icon ![Extension Icon](./icons/icon16.png) to enable the Code Review mode.
 
 ## 📸 Screenshots
 
