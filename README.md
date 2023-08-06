@@ -1,6 +1,4 @@
-# Chat Review
-
-![Extension Icon](./icons/icon48.png)
+# ![Extension Icon](./icons/icon48.png) Chat Review
 
 **Enhance your ChatGPT experience with our Code Review mode tailored specifically for code blocks. Achieve precision and speed up your code iterations effortlessly.**
 
