@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Chat Review",
+    "version": "1.0",
+    "description": "Enhance ChatGPT with a code review mode",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://chat.openai.com/*"
+            ],
+            "css": [
+                "styles.css"
+            ]
+        }
+    ],
+    "action": {
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        },
+        "default_popup": "",
+        "default_title": "Start code review"
+    }
+}
