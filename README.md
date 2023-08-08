@@ -23,6 +23,8 @@ This Chrome extension introduces a Code Review mode within ChatGPT's code blocks
 4. Click "Load unpacked" and select the cloned repository folder.
 5. The extension should now be added to Chrome.
 
+Alternatively, you could just install it from [Chrome Web Store](https://chrome.google.com/webstore/detail/chat-review/penhlhdgahppmdkdpalemahmgmecbopg?hl=en).
+
 ## 🎯 Usage
 
 1. Navigate to [ChatGPT](https://chat.openai.com/).
