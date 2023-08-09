@@ -33,6 +33,8 @@ Alternatively, you could just install it from [Chrome Web Store](https://chrome.
 
 ## 📸 Screenshots
 
+![chat openai com_c_640](https://github.com/specful-ai/chatreview/assets/196279/9504fbe0-d695-4b06-bc57-e815ba1e4bdf)
+
 See the [screenshots](screenshots) directory for details.
 
 ## 🤝 Contributing
