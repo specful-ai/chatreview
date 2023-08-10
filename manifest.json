@@ -10,16 +10,6 @@
     "background": {
         "service_worker": "background.js"
     },
-    "content_scripts": [
-        {
-            "matches": [
-                "https://chat.openai.com/*"
-            ],
-            "css": [
-                "styles.css"
-            ]
-        }
-    ],
     "action": {
         "default_icon": {
             "16": "icons/icon16.png",
