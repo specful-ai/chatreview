@@ -1,18 +1,27 @@
 {
     "manifest_version": 3,
     "name": "Chat Review",
-    "version": "1.0",
-    "description": "Enhance ChatGPT with a code review mode",
+    "version": "1.1",
+    "description": "Code Review Mode for ChatGPT",
     "permissions": [
         "activeTab",
+        "contextMenus",
+        "downloads",
         "scripting"
     ],
     "background": {
         "service_worker": "background.js"
     },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
     "action": {
         "default_icon": {
             "16": "icons/icon16.png",
+            "32": "icons/icon32.png",
             "48": "icons/icon48.png",
             "128": "icons/icon128.png"
         },
