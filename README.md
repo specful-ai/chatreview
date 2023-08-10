@@ -10,7 +10,7 @@ This Chrome extension introduces a Code Review mode within ChatGPT's code blocks
 
 - **Code Block Enhancement**: Reformats code blocks to facilitate easy review and modification.
 - **Iterative Feedback**: Allows for fast and precise code iterations.
-- **Interactive Line Numbers**: Click on line numbers for additional actions.
+- **Download All Source Code**: With just one click from the context menu, download all the source code files in the current session, bundled neatly in a ZIP archive.
 
 ## 🛠 Installation
 
@@ -30,6 +30,8 @@ Alternatively, you could just install it from [Chrome Web Store](https://chrome.
 1. Navigate to [ChatGPT](https://chat.openai.com/).
 2. Ask ChatGPT to write some code for you.
 3. Click the extension icon ![Extension Icon](./icons/icon16.png) to enable the Code Review mode.
+
+To download all files as a ZIP, right click on the page and use "Download all source code files" in the context menu.
 
 ## 📸 Screenshots
 
