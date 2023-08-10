@@ -27,11 +27,15 @@ Alternatively, you could just install it from [Chrome Web Store](https://chrome.
 
 ## 🎯 Usage
 
+### Code Review
+
 1. Navigate to [ChatGPT](https://chat.openai.com/).
 2. Ask ChatGPT to write some code for you.
 3. Click the extension icon ![Extension Icon](./icons/icon16.png) to enable the Code Review mode.
 
-To download all files as a ZIP, right click on the page and use "Download all source code files" in the context menu.
+### Download Files
+
+To download all files as a ZIP, right click on the page and use "Download all source code files" in the context menu. See this [screenshot](screenshots/download.png) for an example.
 
 ## 📸 Screenshots
 
