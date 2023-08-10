@@ -4,6 +4,10 @@ function replaceNodeWithModifiedHTML() {
     let nodes = lastGroup.querySelectorAll(".markdown pre code.hljs");
 
     nodes.forEach(node => {
+        if (node.classList.contains("code-review-mode")) {
+            return;
+        }
+
         let textLines = node.textContent.split("\n");
         let lines = node.innerHTML.split("\n");
         if (lines[lines.length - 1].length === 0) {
@@ -24,6 +28,7 @@ function replaceNodeWithModifiedHTML() {
         }
         node.appendChild(table);
         node.style.display = "block";
+        node.classList.add("code-review-mode");
     });
 }
 
