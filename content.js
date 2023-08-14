@@ -49,7 +49,7 @@ table.chatreview>tr.review-row>td>div {
 
 table.chatreview>tr.review-row>td>div .review-text {
     background-color: rgb(254, 247, 224);
-    color: var(--tw-prose-body);
+    color: #374151;
     padding: 2px 4px;
     width: 500px;
     font-size: inherit;
