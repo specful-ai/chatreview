@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Chat Review",
-    "version": "1.1",
+    "version": "1.2",
     "description": "Code Review Mode for ChatGPT",
     "permissions": [
         "activeTab",
